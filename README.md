@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there! I'm Hirad Akbari 👋
 👨‍💻 Software Developer | Specialized in Python and Django  
 💡 Passionate about designing and developing scalable APIs and working with SQL and NoSQL databases.
