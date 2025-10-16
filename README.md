@@ -15,4 +15,11 @@
 
 
 
+
+
+
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=python,django,redis,docker,postgresql,wordpress,php,figma,discord,fastapi)](https://skillicons.dev)
