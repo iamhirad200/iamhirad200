@@ -3,15 +3,6 @@
 👨‍💻 Software Developer | Specialized in Python and Django  
 💡 Passionate about designing and developing scalable APIs and working with SQL and NoSQL databases.
 
-### Technologies and Tools:
-- Python 
-- Django
-- Django REST Framework
-- Redis
-- SQL / NoSQL
-- PostgreSQL
-- Docker
-
 ### Current Interests:
 - Exploring new web technologies and frameworks  
 - Contributing to open-source projects  
